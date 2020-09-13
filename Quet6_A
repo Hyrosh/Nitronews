@@ -1,2 +1,2 @@
-SELECT name FROM demo
+SELECT nome_estado FROM tabela
 WHERE id=3
