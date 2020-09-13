@@ -1,0 +1,1 @@
+SELECT nome_estado, nome_pais FROM tabela
