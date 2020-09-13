@@ -1,0 +1,3 @@
+<? php
+$variavel=array ("nome"=>"Pedro Luiz","endereco"=>"Av Taquara","telefone"=>"(51)5151-51511");
+?>
