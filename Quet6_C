@@ -1,1 +1,1 @@
-SELECT pais sigla FROM tabela
+SELECT pais SUBSTRING(name, 1, 2) AS UF, FROM tabela
